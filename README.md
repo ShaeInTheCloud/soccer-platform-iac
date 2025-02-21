@@ -1,6 +1,6 @@
 # Soccer Platform Infrastructure as Code
 
-Part of the 30 Days DevOps Challenge - Week 3: Infrastructure & Automation. This project implements infrastructure as code (IaC) for a soccer statistics platform using AWS CloudFormation.
+Part of the 30 Days DevOps Challenge - Week 3 Day 01: Infrastructure & Automation. This project implements infrastructure as code (IaC) for a soccer statistics platform using AWS CloudFormation.
 
 ## Architecture Overview
 
